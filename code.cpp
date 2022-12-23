@@ -48,7 +48,7 @@ int main()
 
 
 
-	////subtrahend print
+	////subtrahend print uncomment if youw want to.
 	//for (int i = 0; i < limit; ++i)
 	//{
 	//	cout << bitsubtra[i];
